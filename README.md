@@ -8,5 +8,5 @@
 
 - 🌱 I’m currently learning **C++**
 
-- 📫 How to reach me **recefeb@gmail.com**
+- 📫 How to reach me **16008125056@ogr.bozok.edu.tr**
 
